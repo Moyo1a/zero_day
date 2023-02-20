@@ -1,0 +1,1 @@
+this project is all about the use of vagrant and virtual box as operating system environment, ubuntu is installed and other installation processes in the command line interface. The ubuntu ssh is utilized and password.
